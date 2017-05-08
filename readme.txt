@@ -1,5 +1,5 @@
 
-<b>Font AweaZome</b>
+Font AweaZome
 Author:zStudios Networks
 
 Description
