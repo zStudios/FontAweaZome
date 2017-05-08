@@ -1,26 +1,25 @@
 
-[color=teal][size=2em][b]Font AweaZome [/b][/size][/color]
-[b]Author:[/b] [url=http://zStudios.es]zStudios Networks[/url]
+Font AweaZome
+Author:zStudios Networks
 
-[color=teal][b][size=12pt]Description[/size][/b][/color]
+Description
 
-[b]For SMF 2.0.x only[/b]
+[For SMF 2.0.x only
 
-This mod will add a tags:  [nobbc]
+This mod will add a tags:
 [fa]fa-rebel[/fa]
- [/nobbc]
+
 Using the Font Aweasome CDN for implement the Font Aweasome Icons via BBC  for the threads, and HTML for your forum templates.
-[color=teal][b][size=12pt]License[/size][/b][/color]
+License
 
  * This SMF modification is subject to the Mozilla Public License Version
  * 2.0 (the "License"); you may not use this SMF modification except in compliance with
  * the License. You may obtain a copy of the License at
- * [url]http://www.mozilla.org/MPL/[/url]
+ * http://www.mozilla.org/MPL/
  
-[color=teal][b][size=12pt]Languages[/size][/b][/color]
+Languages
 -English/utf8
+Changelog
 
-[color=teal][b][size=12pt]Changelog[/size][/b][/color]
-
-[b]1.0 - Jan 07, 2017[/b]
+1.0 - Jan 07, 2017
 -Code improved.
