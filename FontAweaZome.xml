@@ -24,15 +24,12 @@ $txt['time'] = 'Insert Font Aweasome BBC';
 		</operation>
 	</file>
 	
- <file name="$themedir/index.template.php">
-	<operation>
-				<search position="before"><![CDATA[
-	// Here comes the JavaScript bits!
-	echo '
-			]]></search>
+	<file name="$themedir/index.template.php">
+		<operation>
+			<search position="before"><![CDATA[	// Here comes the JavaScript bits!
+	echo ']]></search>
 			<add><![CDATA[
-<script src="https://use.fontawesome.com/96e400efe9.js"></script>
-]]></add>
+	<script src="https://use.fontawesome.com/aa22eb6168.js"></script>]]></add>
 		</operation>
 	</file>
 
